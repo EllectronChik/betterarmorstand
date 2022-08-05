@@ -1,0 +1,4 @@
+item_names:
+  visibility_button: "Сделать видимым"
+  invisibility_button: "Сделать невидимым"
+  name_button: "Смена имени"

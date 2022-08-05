@@ -1,0 +1,5 @@
+name: Betterarmorstand
+version: '${project.version}'
+main: me.ellectronchik.betterarmorstand.Betterarmorstand
+api-version: 1.19
+authors: [ EllectronChik ]
